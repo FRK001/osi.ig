@@ -49,7 +49,7 @@ class extra():
  ╚═╝  ╚═╝  ╩  {gr}o{cy}  ╩  ╚═╝
  
         {gr}Code By :
-  {gr}youtube.com/theunknon{nu}
+  {gr}   [FRK (WaTcH DoGs)]   {gr}
 	            """)
 
 class main():
